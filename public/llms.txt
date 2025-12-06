@@ -1,0 +1,7 @@
+## Pages
+- [AI Inventory Analyzer - AI-Powered Inventory Management](/landing): Transform your inventory management with AI-powered insights, smart image upload, and real-time analytics.
+- [Dashboard - AI Inventory Analyzer](/dashboard): View your inventory dashboard with uploaded images, stock data, and AI-powered insights.
+- [Login - AI Inventory Analyzer](/login): Login to your AI Inventory Analyzer account to access your inventory management dashboard.
+- [Settings - AI Inventory Analyzer](/settings): Manage your AI Inventory Analyzer account settings and preferences.
+- [Sign Up - AI Inventory Analyzer](/register): Create your AI Inventory Analyzer account and start managing your inventory with AI-powered insights.
+- [Upload Images - AI Inventory Analyzer](/upload): Upload shelf and item images for AI-powered inventory analysis.
